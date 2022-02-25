@@ -41,7 +41,7 @@
 - 📑 [Fault-Tolerant Strassen-Like Matrix Multiplication](https://ieeexplore.ieee.org/document/9302383) - Designed parity calculations to make matrix multiplication
 calculations, using Strassen-Like algorithms on cloud computing environment (with parallel setting) fault-tolerant.
 
-- 📑 [TajBERTo](https://huggingface.co/muhtasham/TajBERTo): Developed first ever RoBERTa-like language model based on Tajik language after extensive filtering of the dataset. The model can be used for masked text generation or fine-tune it to a downstream task.
+- 📑 [TajBERTo](https://huggingface.co/muhtasham/TajBERTo) - Developed first ever RoBERTa-like language model based on Tajik language after extensive filtering of the dataset. The model can be used for masked text generation or fine-tune it to a downstream task.
 
 
 <!--- ### Github Stats ⭐

@@ -12,7 +12,7 @@
 ### Skills 🛠️
 - **Languages**:        Python, C++, Matlab
 - **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, Tensorflow, [Hugging Face🤗](huggingface.co/muhtasham)
-- **RDBMS**:   &nbsp;   PostgreSQL
+- **RDBMS**:   &nbsp;   NoSQL
 - **Big Data**:  &emsp; Hadoop Spark
 - **DevOps**:  &ensp;   Linux, Git, Docker, REST API, CI
 

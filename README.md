@@ -1,6 +1,10 @@
 ### Hello world, I'm Muhtasham and I [🤗](huggingface.co/muhtasham) open-source 
   
-**Field of interests**: Enterprise, Legal and Regulatory NLP, Synthetic Data Augmentation, Anomaly Detection in E-Commerce
+**Field of interests**: 
+Zero-Shot Learning, 
+Multi-modal and Multi-task Learning, 
+Synthetic Data Augmentation, 
+Anomaly Detection in E-Commerce
 
  [<img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](muhtasham97@gmail.com)
  [<img alt="LinkedIn" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/muhtasham/)
@@ -21,7 +25,7 @@
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
 | **ML Engineer**      | **Alyne**      | **NLP, Multi-Task Learning**                | **01.03.2022 — until now** |
 | **ML Engineer**      | **Datamics**      | **ML, Anomaly Detection**                | **15.01.2021 — 28.02.2022** |
-| **ML Engineer**      | **Pretcog Consulting**      | **CV, Synthetic Data Augmentation**           | **01.02.2020 — 01.08.2020** |
+| **ML Engineer**      | **Mirage**      | **CV, Synthetic Data Augmentation**           | **01.02.2020 — 01.08.2020** |
 | **ML Engineer**      | **Vispera**      | **CV, GANS**           | **01.07.2019 — 15.09.2019** |
 
 

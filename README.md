@@ -1,10 +1,10 @@
 ### Hallo world, I'm Muhtasham passionate MLE 
   
 **Field of interests**: 
-Zero-Shot Learning, 
-Multi-modal and Multi-task Learning, 
+Out of DIstirbution and Anomaly Detection, 
 Synthetic Data Augmentation, 
-Anomaly Detection in E-Commerce
+NLP for Low-Resource Languages
+
 
  [<img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:muhtasham97@gmail.com)
  [<img alt="LinkedIn" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/muhtasham/)

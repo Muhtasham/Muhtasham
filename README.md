@@ -23,7 +23,7 @@ Anomaly Detection in E-Commerce
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **ML Engineer**      | **Alyne**      | **NLP, Multi-Task Learning**                | **01.03.2022 — until now** |
+| **ML Engineer**      | **Alyne**      | **NLP, Multi-Task Learning**                | **01.03.2022 — 31.08.2022** |
 | **ML Engineer**      | **Datamics**      | **ML, Anomaly and Out of Distibution Detection**                | **15.01.2021 — 28.02.2022** |
 | **ML Engineer**      | **Mirage**      | **CV, Synthetic Data Augmentation**           | **01.02.2020 — 01.08.2020** |
 | **ML Engineer**      | **Vispera**      | **CV, GANS**           | **01.07.2019 — 15.09.2019** |

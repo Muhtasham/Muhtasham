@@ -36,7 +36,7 @@ NLP for Low-Resource Languages
   - Thesis in progress
 - **Bachelor's degree** at Sabanci University (2016 - 2020)
   - [Diploma thesis](https://github.com/osmanberke/Deep-SSVEP-BCI): "A Deep Neural Network for SSVEP-based 🧠 Computer Interfaces"
-  - [ML Monthly YouTube Show](https://youtu.be/cNDA60YLVdQ?t=251) 
+  - [Featured in ML Monthly YouTube Show](https://youtu.be/cNDA60YLVdQ?t=251) 
 
 🔗More about education in my [LinkedIn](https://www.linkedin.com/in/muhtasham/).
 

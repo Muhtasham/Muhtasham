@@ -1,7 +1,7 @@
 ### Hallo world, I'm Muhtasham passionate MLE 
   
 **Field of interests**: 
-Out of DIstirbution and Anomaly Detection, 
+MLOps, Out of Distribution and Anomaly Detection, 
 Synthetic Data Augmentation, 
 NLP for Low-Resource Languages
 

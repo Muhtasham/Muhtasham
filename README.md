@@ -1,9 +1,9 @@
 ### Hallo world, I'm Muhtasham passionate MLE 
   
 **Field of interests**: 
-MLOps, Out of Distribution and Anomaly Detection, 
+Out-of-Distribution Detection, 
 Synthetic Data Augmentation, 
-NLP for Low-Resource Languages
+NLP and ASR for Low-Resource Languages
 
 
  [<img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:muhtasham97@gmail.com)
@@ -23,6 +23,7 @@ NLP for Low-Resource Languages
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
+| **ML Engineer**      | **Munich RE**    | **ML, Model Operationalization **                | **15.11.2022 — Current** |
 | **ML Engineer**      | **Alyne**      | **NLP, Multi-Task Learning**                | **01.03.2022 — 31.08.2022** |
 | **ML Engineer**      | **Datamics**      | **ML, Anomaly and Out of Distibution Detection**                | **15.01.2021 — 28.02.2022** |
 | **ML Engineer**      | **Mirage**      | **CV, Synthetic Data Augmentation**           | **01.02.2020 — 01.08.2020** |

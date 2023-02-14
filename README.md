@@ -34,7 +34,7 @@ NLP and ASR for Low-Resource Languages
 
 ### Education 🎓
 - **Master’s degree** at Technical University of Munich  (2020 - Sep 2022)
-  - Sequential NLP Multi-task Learning
+  - Sequential Multi-task Learning in NLP with Focus on RegTech Domain
 - **Bachelor's degree** at Sabanci University (2016 - 2020)
   - [Diploma thesis](https://github.com/osmanberke/Deep-SSVEP-BCI): "A Deep Neural Network for SSVEP-based 🧠 Computer Interfaces"
   - [Featured in ML Monthly YouTube Show](https://youtu.be/cNDA60YLVdQ?t=251) 

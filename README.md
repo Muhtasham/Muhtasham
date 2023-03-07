@@ -14,11 +14,11 @@ NLP and ASR for Low-Resource Languages
 
 
 ### Skills 🛠️
-- **Languages**:        Python, C++, Matlab
-- **DS/ML/DL**: &nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, PyTorch, Tensorflow, [Hugging Face🤗](https://huggingface.co/muhtasham)
-- **RDBMS**:   &nbsp;   NoSQL
-- **Big Data**:  &emsp; Hadoop Spark
-- **DevOps**:  &ensp;   Linux, Git, Docker, REST API, CI
+- **Languages**: &nbsp; Python, C++, Matlab, Java
+- **DS/ML/DL**:  &nbsp; PyTorch, Tensorflow, [Hugging Face🤗](https://huggingface.co/muhtasham), Nvidia Triton
+- **RDBMS**:     &nbsp; NoSQL
+- **Big Data**:  &nbsp; Hadoop Spark
+- **DevOps**:    &nbsp; Linux, Git, Docker, REST API, Azure DevOps
 
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |

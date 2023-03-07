@@ -1,6 +1,7 @@
 ### Hallo world, I'm Muhtasham passionate MLE 
   
-**Field of interests**: 
+**Field of interests**:
+Effeicient Transfer Learning,
 Out-of-Distribution Detection, 
 Synthetic Data Augmentation, 
 NLP and ASR for Low-Resource Languages
@@ -10,7 +11,7 @@ NLP and ASR for Low-Resource Languages
  [<img alt="LinkedIn" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/muhtasham/)
  [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" >](https://twitter.com/muhtasham9)
  [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://muhtasham32.medium.com)
-
+ [<img alt="Blog" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">](https://muhtasham.github.io/blog/)
 
 
 ### Skills 🛠️

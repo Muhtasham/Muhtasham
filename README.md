@@ -16,7 +16,7 @@ NLP and ASR for Low-Resource Languages
 
 ### Skills 🛠️
 - **Languages**: &nbsp; Python, C++, Matlab, Java
-- **DS/ML/DL**:  &nbsp; PyTorch, Tensorflow, [Hugging Face🤗](https://huggingface.co/muhtasham), Nvidia Triton
+- **DS/ML/DL**:  &nbsp; PyTorch, Tensorflow, [Hugging Face🤗](https://huggingface.co/muhtasham), [Triton](https://github.com/openai/triton)
 - **RDBMS**:     &nbsp; NoSQL
 - **Big Data**:  &nbsp; Hadoop Spark
 - **DevOps**:    &nbsp; Linux, Git, Docker, REST API, Azure DevOps
@@ -24,7 +24,7 @@ NLP and ASR for Low-Resource Languages
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **ML Engineer**      | **Munich RE**    | **ML, Model Operationalization**                | **15.11.2022 — Current** |
+| **ML Engineer**      | **Munich RE**    | **ML, Model Operationalization, LLM**                | **15.11.2022 — Current** |
 | **ML Engineer**      | **Alyne**      | **NLP, Multi-Task Learning**                | **01.03.2022 — 31.08.2022** |
 | **ML Engineer**      | **Datamics**      | **ML, Anomaly and Out of Distibution Detection**                | **15.01.2021 — 28.02.2022** |
 | **ML Engineer**      | **Mirage**      | **CV, Synthetic Data Augmentation**           | **01.02.2020 — 01.08.2020** |
@@ -43,6 +43,8 @@ NLP and ASR for Low-Resource Languages
 🔗More about education in my [LinkedIn](https://www.linkedin.com/in/muhtasham/).
 
 ### Projects 🚀
+- 📑 [StarCoder- May the Source be with you](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view) - The StarCoder models are 15.5B parameter models trained on 80+ programming languages from The Stack (v1.2), with opt-out requests excluded. The model uses Multi Query Attention, a context window of 8192 tokens, and was trained using the Fill-in-the-Middle objective on 1 trillion tokens.
+
 - 📑 [ECOC based Multi-Class Classification for BCI](https://ieeexplore.ieee.org/abstract/document/9531496) - Developed DNN, under ECOC framework to detect the character out of 40 possibilities that the (disabled) subject wants to communicate via Brain Computer Interface (BCI).
 
 - 📑 [Fault-Tolerant Strassen-Like Matrix Multiplication](https://ieeexplore.ieee.org/document/9302383) - Designed parity calculations to make matrix multiplication

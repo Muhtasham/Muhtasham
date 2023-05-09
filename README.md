@@ -1,6 +1,7 @@
 ### Hallo world, I'm Muhtasham passionate MLE 
   
 **Field of interests**:
+LMOps(MLOPs for Language Models),
 Effeicient Transfer Learning,
 Out-of-Distribution Detection, 
 Synthetic Data Augmentation, 

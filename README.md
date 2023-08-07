@@ -1,11 +1,11 @@
 ### Hallo world, I'm Muhtasham passionate MLE 
   
 **Field of interests**:
-LMOps(MLOPs for Language Models),
+Code-Generation via NNs,
 Effeicient Transfer Learning,
 Out-of-Distribution Detection, 
 Synthetic Data Augmentation, 
-NLP and ASR for Low-Resource Languages
+[NLP and ASR for Low-Resource Languages](https://github.com/Muhtasham/tajik-nlp)
 
 
  [<img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:muhtasham97@gmail.com)

@@ -22,16 +22,6 @@ Synthetic Data Augmentation,
 - **Big Data**:  &nbsp; Hadoop Spark
 - **DevOps**:    &nbsp; Linux, Git, Docker, REST API, Azure DevOps
 
-### Work experience 👔
-| Job Position          | Company        | Field                           | Work Period                |
-| --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **ML Engineer**      | **Munich RE**    | **ML, Model Operationalization, LLM**                | **15.11.2022 — Current** |
-| **ML Engineer**      | **Alyne**      | **NLP, Multi-Task Learning**                | **01.03.2022 — 31.08.2022** |
-| **ML Engineer**      | **Datamics**      | **ML, Anomaly and Out of Distibution Detection**                | **15.01.2021 — 28.02.2022** |
-| **ML Engineer**      | **Mirage**      | **CV, Synthetic Data Augmentation**           | **01.02.2020 — 01.08.2020** |
-| **ML Engineer**      | **Vispera**      | **CV, GANS**           | **01.07.2019 — 15.09.2019** |
-
-
 🔗More about work experience in my [LinkedIn](https://www.linkedin.com/in/muhtasham/)
 
 ### Education 🎓

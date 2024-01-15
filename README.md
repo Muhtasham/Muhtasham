@@ -1,4 +1,4 @@
-### Hallo world, I'm Muhtasham passionate MLE 
+### Hallo world, I'm Muhtasham Deep Learner
   
 **Field of interests**:
 Code-Generation via NNs,
@@ -17,17 +17,15 @@ Synthetic Data Augmentation,
 
 ### Skills 🛠️
 - **Languages**: &nbsp; Python, C++, Matlab, Java
-- **DS/ML/DL**:  &nbsp; PyTorch, Tensorflow, [Hugging Face🤗](https://huggingface.co/muhtasham), [Triton](https://github.com/openai/triton)
-- **RDBMS**:     &nbsp; NoSQL
-- **Big Data**:  &nbsp; Hadoop Spark
+- **DS/ML/DL**:  &nbsp; PyTorch, Tensorflow, Mojo.🔥, [Triton](https://github.com/openai/triton), [CUDA](https://github.com/cuda-mode)
 - **DevOps**:    &nbsp; Linux, Git, Docker, REST API, Azure DevOps
 
 🔗More about work experience in my [LinkedIn](https://www.linkedin.com/in/muhtasham/)
 
 ### Education 🎓
-- **Master’s degree** at Technical University of Munich  (2020 - Sep 2022)
+- **Master’s degree** at Technical University of Munich
   - Sequential Multi-task Learning in NLP with Focus on RegTech Domain
-- **Bachelor's degree** at Sabanci University (2016 - 2020)
+- **Bachelor's degree** at Sabanci University
   - [Diploma thesis](https://github.com/osmanberke/Deep-SSVEP-BCI): "A Deep Neural Network for SSVEP-based 🧠 Computer Interfaces"
   - [Featured in ML Monthly YouTube Show](https://youtu.be/cNDA60YLVdQ?t=251) 
 
@@ -38,8 +36,7 @@ Synthetic Data Augmentation,
 
 - 📑 [ECOC based Multi-Class Classification for BCI](https://ieeexplore.ieee.org/abstract/document/9531496) - Developed DNN, under ECOC framework to detect the character out of 40 possibilities that the (disabled) subject wants to communicate via Brain Computer Interface (BCI).
 
-- 📑 [Fault-Tolerant Strassen-Like Matrix Multiplication](https://ieeexplore.ieee.org/document/9302383) - Designed parity calculations to make matrix multiplication
-calculations, using Strassen-Like algorithms on cloud computing environment (with parallel setting) fault-tolerant.
+- 📑 [Fault-Tolerant Strassen-Like Matrix Multiplication](https://ieeexplore.ieee.org/document/9302383) - Designed parity calculations to make matrix multiplication calculations, using Strassen-Like algorithms on cloud computing environment (with parallel setting) fault-tolerant.
 
 - 📑 [TajBERTo](https://wandb.ai/muhtasham/tajberto/reports/My-learnings-from-training-TajBERTo--VmlldzoyMTEyNDQx) - Developed first ever RoBERTa-like language model based on Tajik language after extensive filtering of the dataset. The model can be used for masked text generation or fine-tune it to a downstream task.
 

@@ -1,13 +1,12 @@
-### Hallo world, I'm Muhtasham Deep Learner
+### Hello world, I'm Muhtasham Life-Long learner
   
  [<img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:muhtasham97@gmail.com)
  [<img alt="LinkedIn" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/muhtasham/)
  [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" >](https://twitter.com/muhtasham9)
- [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://muhtasham32.medium.com)
- [<img alt="Blog" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">](https://muhtasham.github.io/blog/)
+ [<img alt="Medium" src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719">](https://muhtasham.github.io/blog/)
 
 
-### Skills 🛠️
+### Skills 🛠️ (Life-Long Learning)
 - **Languages**: &nbsp; Python, C++, Matlab, Java
 - **DS/ML/DL**:  &nbsp; PyTorch, Tensorflow, Mojo.🔥, [Triton](https://github.com/openai/triton), [CUDA](https://github.com/cuda-mode)
 - **DevOps**:    &nbsp; Linux, Git, Docker, REST API, Azure DevOps
@@ -20,8 +19,6 @@
 - **Bachelor's degree** at Sabanci University
   - [Diploma thesis](https://github.com/osmanberke/Deep-SSVEP-BCI): "A Deep Neural Network for SSVEP-based 🧠 Computer Interfaces"
   - [Featured in ML Monthly YouTube Show](https://youtu.be/cNDA60YLVdQ?t=251) 
-
-🔗More about education in my [LinkedIn](https://www.linkedin.com/in/muhtasham/).
 
 ### Projects 🚀
 - 📑 [StarCoder- May the Source be with you](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view) - The StarCoder models are 15.5B parameter models trained on 80+ programming languages from The Stack (v1.2), with opt-out requests excluded. The model uses Multi Query Attention, a context window of 8192 tokens, and was trained using the Fill-in-the-Middle objective on 1 trillion tokens.

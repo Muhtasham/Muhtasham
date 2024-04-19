@@ -2,13 +2,7 @@
   
 Blog: https://muhtasham.github.io/blog/
 
-
-### Skills 🛠️ (Life-Long Learning)
-- **Languages**: &nbsp; Python, C++, Matlab, Java
-- **DS/ML/DL**:  &nbsp; PyTorch, Tensorflow, Mojo.🔥, [Triton](https://github.com/openai/triton), [CUDA](https://github.com/cuda-mode)
-- **DevOps**:    &nbsp; Linux, Git, Docker, REST API, Azure DevOps
-
-🔗More about work experience in my [LinkedIn](https://www.linkedin.com/in/muhtasham/)
+🔗 More about work experience in my [LinkedIn](https://www.linkedin.com/in/muhtasham/)
 
 ### Education 🎓
 - **Master’s degree** at Technical University of Munich
@@ -25,7 +19,3 @@ Blog: https://muhtasham.github.io/blog/
 - 📑 [Fault-Tolerant Strassen-Like Matrix Multiplication](https://ieeexplore.ieee.org/document/9302383) - Designed parity calculations to make matrix multiplication calculations, using Strassen-Like algorithms on cloud computing environment (with parallel setting) fault-tolerant.
 
 - 📑 [TajGPT and TajBERTo](https://wandb.ai/muhtasham/tajberto/reports/My-learnings-from-training-TajBERTo--VmlldzoyMTEyNDQx) - Developed first ever RoBERTa-like language model based on Tajik language after extensive filtering of the dataset. The model can be used for masked text generation or fine-tune it to a downstream task.
-
-
-<!--- ### Github Stats ⭐
-[![Muhtasham' github stats](https://github-readme-stats.vercel.app/api?username=Muhtasham&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)>

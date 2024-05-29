@@ -1,7 +1,5 @@
 ### Hello world!
 
-Before you judge my commit history, we use Azure DevOps at my daily job xD 
-
 Blog: https://muhtasham.github.io/blog/
 
 🔗 More about work experience in my [LinkedIn](https://www.linkedin.com/in/muhtasham/)
